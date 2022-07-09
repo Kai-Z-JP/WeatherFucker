@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+}
+
+group 'jp.kaiz'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+    maven {
+        url 'https://maven.elmakers.com/repository'
+    }
+}
+
+dependencies {
+    implementation 'org.bukkit:bukkit:1.7.10-R0.1-SNAPSHOT'
+}

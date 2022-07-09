@@ -1,0 +1,5 @@
+name: WeatherFucker
+main: jp.kaiz.weatherfucker.WeatherFuckerCore
+version: 1.0.0-SNAPSHOT
+author: Twitter@Kaiz_JP
+website: https://github.com/Kai-Z-JP/WeatherFucker
