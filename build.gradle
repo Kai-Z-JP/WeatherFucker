@@ -3,7 +3,7 @@ plugins {
 }
 
 group 'jp.kaiz'
-version '1.0-SNAPSHOT'
+version 'v1.1.0'
 
 repositories {
     mavenCentral()
